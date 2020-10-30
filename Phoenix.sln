@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{7779BF0A-D57E-41E5-9CCF-A8D31D88E1E7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Phoenix", "Phoenix\Phoenix.vcxproj", "{86F4A03B-905D-4797-BC08-71A8B158C7B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F4A03B-905D-4797-BC08-71A8B158C7B6}.Debug|x64.ActiveCfg = Debug|x64
+		{86F4A03B-905D-4797-BC08-71A8B158C7B6}.Debug|x64.Build.0 = Debug|x64
+		{86F4A03B-905D-4797-BC08-71A8B158C7B6}.Release|x64.ActiveCfg = Release|x64
+		{86F4A03B-905D-4797-BC08-71A8B158C7B6}.Release|x64.Build.0 = Release|x64
+		{7779BF0A-D57E-41E5-9CCF-A8D31D88E1E7}.Debug|x64.ActiveCfg = Debug|x64
+		{7779BF0A-D57E-41E5-9CCF-A8D31D88E1E7}.Debug|x64.Build.0 = Debug|x64
+		{7779BF0A-D57E-41E5-9CCF-A8D31D88E1E7}.Release|x64.ActiveCfg = Release|x64
+		{7779BF0A-D57E-41E5-9CCF-A8D31D88E1E7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2687F3F-8AA6-452F-A7A6-10E78C21D771}
+	EndGlobalSection
+EndGlobal
